@@ -1,2 +1,0 @@
-# StartCodding
-The Very Start
